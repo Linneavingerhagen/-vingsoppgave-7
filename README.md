@@ -1,1 +1,1 @@
-# -vingsoppgave-7
+# øvingsoppgave-7

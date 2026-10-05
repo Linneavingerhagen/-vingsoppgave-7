@@ -1,5 +1,3 @@
-#hei
-print("hei")
 def plott_ar(data, aar):
     datoer = []
     sno = []
